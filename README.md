@@ -1,2 +1,3 @@
 # house-data
-Analyzing a dataset
+Analyzing a hosuing dataset
+Looking for trends and written descriptions of analysis 
